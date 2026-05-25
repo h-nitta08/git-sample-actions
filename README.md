@@ -1,2 +1,2 @@
 # git-sample-actions
-GitHub ActionsでHello Worldを出力
+GitHub ActionsでHello Worldを出力です
